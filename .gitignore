@@ -1,0 +1,6 @@
+/go-api/pgdata
+/go-api/.env
+/go-api/start.txt
+/go-api/go-api.exe
+/node-api/node_modules
+/node-api/.env
