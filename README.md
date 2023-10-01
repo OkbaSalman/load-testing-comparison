@@ -31,4 +31,4 @@ Remember that the goal of this comparison is to provide a basic understanding of
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed for your own projects.
 
-Thank you for using and contributing to this Simple CRUD API project! If you have any questions or issues, please don't hesitate to open an issue or reach out to me.
+Thank you for using and contributing to this project! If you have any questions or issues, please don't hesitate to open an issue or reach out to me.
